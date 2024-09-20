@@ -1,0 +1,13 @@
+.user-card {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  background-color: #5b4ece;
+  padding: 15px;
+}
+
+.user-card__name {
+  margin-top: 10px;
+  color: #fff;
+  font-size: 18px;
+}
